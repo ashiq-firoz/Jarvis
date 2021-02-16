@@ -3,7 +3,7 @@
 #################################################
 <h2><u>This tutorial is being delayed due 
   unavailability of time</h2></u>
-###############################################
+############################################### <br>
 Watch my tutorial to know how to code jarvis (virtual assistant like alexa) using python
 
 <h3>Modules used:</h3> <br>
